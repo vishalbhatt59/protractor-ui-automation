@@ -1,0 +1,12 @@
+[2014-11-26 20:16:12.168] [WARN] console - A Jasmine spec timed out. Resetting the WebDriver Control Flow.
+[2014-11-26 20:16:12.613] [WARN] console - The last active task was: 
+[2014-11-26 20:16:12.789] [WARN] console - WebDriver.manage().window().maximize()
+    at webdriver.WebDriver.schedule (H:\protractor-ui-automation\protractor-ui-automation\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:302:15)
+    at webdriver.WebDriver.Window.maximize (H:\protractor-ui-automation\protractor-ui-automation\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1346:23)
+    at getUrl (H:\protractor-ui-automation\protractor-ui-automation\src\lib\utility.js:6:28)
+    at login (H:\protractor-ui-automation\protractor-ui-automation\src\base\loginBase.js:7:14)
+    at null.<anonymous> (H:\protractor-ui-automation\protractor-ui-automation\src\test\loginTest.js:13:14)
+    at H:\protractor-ui-automation\protractor-ui-automation\node_modules\jasminewd\index.js:94:14
+    at webdriver.promise.ControlFlow.runInNewFrame_ (H:\protractor-ui-automation\protractor-ui-automation\node_modules\selenium-webdriver\lib\webdriver\promise.js:1640:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (H:\protractor-ui-automation\protractor-ui-automation\node_modules\selenium-webdriver\lib\webdriver\promise.js:1505:8)
+    at wrapper [as _onTimeout] (timers.js:261:14)

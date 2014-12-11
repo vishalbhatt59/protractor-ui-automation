@@ -1,0 +1,22 @@
+{
+                "qa2":
+                {
+				    "login":
+					{
+					         "CS":
+							 {
+							 "url":"http://adactin.com/HotelApp/",
+							 "userName":"narottamgla",
+							 "password":"chhonkar1989"
+							 },
+							 "DPMMM":
+							 {
+							 "url":"http://adactin.com/HotelApp/",
+							 "userName":"narottamgla",
+							 "password":"chhonkar1989"
+							 }
+				          }
+                        
+                }
+               
+}
