@@ -23,7 +23,7 @@ For Contributors
 ----------------
 Clone the github repository:
 
-    git clone https://github.com/angular/protractor.git
+    git clone https://github.com/narottamgla/protractor-ui-automation.git
     cd protractor
     npm install
 
